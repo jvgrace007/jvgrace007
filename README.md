@@ -1,4 +1,4 @@
-##👋 Hi, I’m Jorge
+👋 Hi, I’m Jorge
 
 IT professional with a Bachelor’s in Information Technology and CompTIA Security+, focused on system administration and defensive security.
 
