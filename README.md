@@ -1,29 +1,13 @@
-## 👋 Hi, I’m Jorge
+##👋 Hi, I’m Jorge
 
-I’m an entry-level IT and cybersecurity professional with a Bachelor’s degree in Information Technology and CompTIA Security+.
+Entry-level IT & cybersecurity professional with a B.S. in Information Technology and CompTIA Security+.
 
-I’m currently building hands-on experience in:
-- System administration (Windows & Linux)
-- Security monitoring and log analysis
-- SOC fundamentals and incident response concepts
+Currently focused on building hands-on labs and projects in:
+- System administration
+- Security monitoring
+- SOC fundamentals
 
-This GitHub documents my learning journey through labs, projects, and practical exercises focused on IT operations and defensive security.
-
-### 🎯 Career Interests
-- SOC Analyst (Tier 1)
-- Junior Systems Administrator
-- IT Security / Operations roles
-
-### 🛠️ Tools & Technologies
-- Windows, Linux
-- Networking fundamentals (TCP/IP, DNS)
-- Security basics (SIEM concepts, log analysis)
-- Azure (VM fundamentals)
-- Git & GitHub
-
-I believe in learning by doing and documenting progress along the way.
-
-
+This profile is where I document my learning and technical growth.
 <!--
 **jvgrace007/jvgrace007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
