@@ -1,6 +1,7 @@
 👋 Hi, I’m Jorge
 
-IT professional with a Bachelor’s in Information Technology and CompTIA Security+, focused on system administration and defensive security.
+I hold a Bachelor of Science in Information Technology and CompTIA Security+.
+This profile documents my hands-on learning in system administration and SOC fundamentals through labs and projects.
 
 I’m actively developing hands-on experience through home labs and documented projects covering:
 - Windows/Linux administration
